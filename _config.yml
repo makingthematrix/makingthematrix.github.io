@@ -84,3 +84,25 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+###
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://makingthematrix.github.io'
+  media: 'images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
