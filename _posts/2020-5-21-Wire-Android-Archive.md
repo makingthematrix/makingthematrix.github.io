@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wire Android Archive'
+title: Wire Android Archive
 published: true
 ---
 Due to recent changes, for some time now the only official channel of distribution for new releases  of Wire Android will be Google Play Store. I decided this is a good opportunity to set up an archive of APKs which you can download and install without having anything to do with Google - except for that apks are stored on Google Drive. I will try  my best to keep this website up to date with the newest releases unless I have good reasons to skip some (e.g. if I know that a hotfix is coming soon). 
@@ -16,3 +16,5 @@ Download: [link](https://drive.google.com/open?id=1qJaWusjulqVq3Og01_-bUfXduOXuG
 Released on: 2020-05-13
 
 SHA256: dafa14ac066e6c49ef4545251dbbcbf2b2f39d46523779e923308d2702e4a1b0
+
+Release notes: [Main release](https://github.com/wireapp/wire-android/releases/tag/3.48) + [hotfix](https://github.com/wireapp/wire-android/releases/tag/3.48.915)
