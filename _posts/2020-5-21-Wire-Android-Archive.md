@@ -7,6 +7,23 @@ Due to recent changes, for some time now the only official channel of distributi
 
 Please note this is an **unofficial** channel of distribution. 
 
+### How to install an APK?
+
+My favourite method is with [adb](https://developer.android.com/studio/command-line/adb). Download it, install it, connect your phone and make sure it's allowed to install apps on it through USB. Then go to the console and type:
+```
+> adb devices
+List of devices attached
+[device id]	device
+```
+
+This is to make sure your phone is connected. If it is, type:
+```
+> adb install -r -d /[path to downloaded APK]/wire-prod-release-[release number].apk 
+```
+
+You can read more [here](https://www.xda-developers.com/quickly-install-adb/).
+Or if you don't want to use `adb` you can try [other methods](https://www.lifewire.com/install-apk-on-android-4177185).
+
 
 ## Wire Android 3.48.915
 
