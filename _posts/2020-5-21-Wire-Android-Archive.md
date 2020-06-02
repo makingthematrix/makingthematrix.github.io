@@ -24,6 +24,16 @@ This is to make sure your phone is connected. If it is, type:
 You can read more [here](https://www.xda-developers.com/quickly-install-adb/).
 Or if you don't want to use `adb` you can try [other methods](https://www.lifewire.com/install-apk-on-android-4177185).
 
+## Wire Android 3.49.918
+
+
+Download: [link](https://drive.google.com/file/d/116XWP4ZY7gJu9RsQMlX1cjnMdkvHCV2U)
+
+Released on: 2020-05-28
+
+SHA256: 9c95014c5b08ff8b33625a4604416c83864a4a8644aefa972498bab67d4583a9
+
+Release notes: [Main release](https://github.com/wireapp/wire-android/releases/tag/3.49) + [hotfix](https://github.com/wireapp/wire-android/releases/tag/3.49.918)
 
 ## Wire Android 3.48.915
 
