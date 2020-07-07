@@ -31,7 +31,7 @@ Download: [link](https://drive.google.com/file/d/1GRcpTMVjYYEuFj3fOvvJj6X1GhQ0hb
 
 Released on: 2020-06-11
 
-SHA256: f90419a7f530083a85f2dfc6438f5d0f101914ace53037038cecf48a65826d26
+SHA256: `f90419a7f530083a85f2dfc6438f5d0f101914ace53037038cecf48a65826d26`
 
 Release notes: [Main release](https://github.com/wireapp/wire-android/releases/tag/3.50)
 
@@ -42,7 +42,7 @@ Download: [link](https://drive.google.com/file/d/116XWP4ZY7gJu9RsQMlX1cjnMdkvHCV
 
 Released on: 2020-05-28
 
-SHA256: 9c95014c5b08ff8b33625a4604416c83864a4a8644aefa972498bab67d4583a9
+SHA256: `9c95014c5b08ff8b33625a4604416c83864a4a8644aefa972498bab67d4583a9`
 
 Release notes: [Main release](https://github.com/wireapp/wire-android/releases/tag/3.49) + [hotfix](https://github.com/wireapp/wire-android/releases/tag/3.49.918)
 
@@ -53,6 +53,6 @@ Download: [link](https://drive.google.com/open?id=1qJaWusjulqVq3Og01_-bUfXduOXuG
 
 Released on: 2020-05-13
 
-SHA256: dafa14ac066e6c49ef4545251dbbcbf2b2f39d46523779e923308d2702e4a1b0
+SHA256: `dafa14ac066e6c49ef4545251dbbcbf2b2f39d46523779e923308d2702e4a1b0`
 
 Release notes: [Main release](https://github.com/wireapp/wire-android/releases/tag/3.48) + [hotfix](https://github.com/wireapp/wire-android/releases/tag/3.48.915)
