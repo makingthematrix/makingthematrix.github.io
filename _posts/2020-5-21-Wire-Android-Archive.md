@@ -24,6 +24,20 @@ This is to make sure your phone is connected. If it is, type:
 You can read more [here](https://www.xda-developers.com/quickly-install-adb/).
 Or if you don't want to use `adb` you can try [other methods](https://www.lifewire.com/install-apk-on-android-4177185).
 
+## Wire Android 3.55.939
+
+Download: [link](https://drive.google.com/file/d/1e9e1xDLJ_8na0ATpjjnDsShZnq4Gas7z)
+
+Released on: 2020-09-15
+
+SHA256: `78389ab42cd240253007a67ed90fe9010ccafa925a235b302bc63a0396fda31d`
+
+Release notes:
+* [3.53](https://github.com/wireapp/wire-android/releases/tag/3.53)
+* [3.54](https://github.com/wireapp/wire-android/releases/tag/3.54)
+* [3.55](https://github.com/wireapp/wire-android/releases/tag/3.55)
+I skipped two releases due to vacations and other work. The most important changes are dropped support for Android 5 & 6, and the new backups functionality.
+
 ## Wire Android 3.52.927
 
 
