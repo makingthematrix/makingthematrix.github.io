@@ -24,6 +24,21 @@ This is to make sure your phone is connected. If it is, type:
 You can read more [here](https://www.xda-developers.com/quickly-install-adb/).
 Or if you don't want to use `adb` you can try [other methods](https://www.lifewire.com/install-apk-on-android-4177185).
 
+
+## Wire Android 3.57.944
+
+Download: [link](https://drive.google.com/file/d/1eVBepz0E5VNLCM6rLBjiOV8U0EXODdiK)
+
+Released on: 2020-10-05
+
+SHA256: `3ef0be78d59b3995c6d61f589abcb9dcde4ba086bf4cfe0c0802cad303f0c01c`
+
+Release notes:
+* [3.56](https://github.com/wireapp/wire-android/releases/tag/3.56)
+* [3.57](https://github.com/wireapp/wire-android/releases/tag/3.57)
+The most important change: New conference calls - better quality and more people than before can participate in an e2ee call.
+
+
 ## Wire Android 3.55.939
 
 Download: [link](https://drive.google.com/file/d/1e9e1xDLJ_8na0ATpjjnDsShZnq4Gas7z)
