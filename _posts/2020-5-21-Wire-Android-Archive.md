@@ -25,6 +25,18 @@ You can read more [here](https://www.xda-developers.com/quickly-install-adb/).
 Or if you don't want to use `adb` you can try [other methods](https://www.lifewire.com/install-apk-on-android-4177185).
 
 
+## Wire Android 3.58.957
+
+Download: [link](https://drive.google.com/file/d/1JkC80d_UHWcLYcYonyhK3Gzar_lCMeRN/view?usp=sharing)
+
+Released on: 2020-10-30
+
+SHA256: `5be9786b70a8122c00b71af01da04d2661a0a6668b64732e64059f75de26f65d`
+
+Release notes:
+* [Main release](https://github.com/wireapp/wire-android/releases/tag/3.58)
+On top of that, this release uses [wire-signals](https://github.com/wireapp/wire-signals) v0.2.4, the first version after a major refactoring.
+
 ## Wire Android 3.57.944
 
 Download: [link](https://drive.google.com/file/d/1eVBepz0E5VNLCM6rLBjiOV8U0EXODdiK)
