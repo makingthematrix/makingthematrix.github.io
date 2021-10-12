@@ -24,6 +24,30 @@ This is to make sure your phone is connected. If it is, type:
 You can read more [here](https://www.xda-developers.com/quickly-install-adb/).
 Or if you don't want to use `adb` you can try [other methods](https://www.lifewire.com/install-apk-on-android-4177185).
 
+## Wire Android 3.74.1018
+
+Download: [link](https://drive.google.com/file/d/1F9p7ncJDfhfrDjjGNcd0RI7RgJzWexn_/view?usp=sharing)
+
+Released on: 2021-10-04
+
+SHA256: `270cf9185dfe495b6f22cf861bc9f4af8d7379ff51fcccc3718e6f5e38e9006b`
+
+Release notes:
+* [Main release](https://github.com/wireapp/wire-android/releases/tag/3.74)
+* [3.72](https://github.com/wireapp/wire-android/releases/tag/3.72)
+* [3.71](https://github.com/wireapp/wire-android/releases/tag/3.71)
+* [3.70](https://github.com/wireapp/wire-android/releases/tag/3.70)
+* [3.69](https://github.com/wireapp/wire-android/releases/tag/3.69)
+* [3.68](https://github.com/wireapp/wire-android/releases/tag/3.68)
+* [3.67](https://github.com/wireapp/wire-android/releases/tag/3.67)
+* [3.66](https://github.com/wireapp/wire-android/releases/tag/3.66)
+* [3.65](https://github.com/wireapp/wire-android/releases/tag/3.65)
+* [3.64](https://github.com/wireapp/wire-android/releases/tag/3.64)
+* [3.63](https://github.com/wireapp/wire-android/releases/tag/3.63)
+* [3.62](https://github.com/wireapp/wire-android/releases/tag/3.62)
+* [3.61](https://github.com/wireapp/wire-android/releases/tag/3.61)
+* [3.60](https://github.com/wireapp/wire-android/releases/tag/3.60)
+* [3.59](https://github.com/wireapp/wire-android/releases/tag/3.59)
 
 ## Wire Android 3.58.957
 
