@@ -16,4 +16,4 @@ Finally, a word about the design: The purpose of a learning roadmap is to presen
 
 I hope it will be valuable to you.
 
-![Scala Learning Roadmap](/assets/NewRoadmap_16x9_Available.png)
+![Scala Learning Roadmap](/makingthematrix.github.io/assets/NewRoadmap_16x9_Available.png)
