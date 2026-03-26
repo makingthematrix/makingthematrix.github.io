@@ -4,8 +4,6 @@ title: 'Scala Learning Roadmap'
 published: true
 ---
 
-# Scala Learning Roadmap
-
 [link](https://roadmap.sh/scala)
 
 The Scala Learning Roadmap is now officially published at roadmap.sh/scala. It is a learning roadmap designed to help beginners decide what to learn and in what order, and to discover relevant resources. It is one of the largest roadmaps on roadmap.sh, featuring over 150 nodes, each accompanied by descriptions and links to articles, videos, and code examples.
@@ -18,4 +16,4 @@ Finally, a word about the design: The purpose of a learning roadmap is to presen
 
 I hope it will be valuable to you.
 
-![Scala Learning Roadmap](../images/NewRoadmap_16x9_Available.png)
+![Scala Learning Roadmap](/makingthematrix.github.io/images/NewRoadmap_16x9_Available.png)
